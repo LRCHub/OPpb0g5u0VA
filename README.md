@@ -1,0 +1,113 @@
+# globe – Feel Like dance
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+SO CHECK IT OUT
+AND TURN UP THE BASS
+AND LET YOU KNOW
+THAT WE'RE THE BEST
+BURST OPEN SPLIT OPEN
+NO TIME TO ANSWER ANY QUESTION
+JUST W/Z US AND FEEL THE GROOVE
+CHECK G.L.O.B.E. GONNA PROOVE
+MOVE YA CHEST ROLL UP YA ROBE
+DANCE TRANCE ALL IN A GLOBE
+FEEL LIKE DANCE
+いつの頃か 忘れそな遠い日
+めくるめく想いは
+情けない程 この頃味わえないよ
+男女(ひと)はなぜ時代を
+彩る様な恋と
+それだけじゃきっと
+満たしきれず愛を囁く
+今宵ダンスと共に
+LET ME KNOW
+THAT YOU NEVER NEVER GIVE IT UP
+WATCH ME NOW
+AND WE ARE GONNA MAKE IT UP
+PUT YA HANDS UP PUT YA HANDS UP
+MAKE SOME NOISE
+AND ALL GONNA WICK IT UP
+KEEP ON MOVING JUST LIKE THIS
+AND STAY W/Z US AND KEEP ON FREE
+HAPPY BABY? SO MOVE YA BODY
+TAKE YA FUN
+WHERE YOU CAN FIND IT
+平穏と幻想の日々をずっと
+送りつづけていくのに飽きてる
+やさしさと気遣いを交代に使いわけ
+顔つきはいったいどっちだい
+泣ける夜の公園は
+喧騒のほてりを癒して
+語り尽くせぬ想い
+誰かそばで聞いてよ
+もうどこにも行けない
+FEEL LIKE DANCE
+いつの頃か あきらめかけた夢
+まわりまわるチャンスが
+味気ない程通りすぎてくよ
+I LOVE YOU とっておきの
+何度も使えない だけど明日を見て
+生きてゆく為にはもう1度
+あなたには届けたい
+COOLIN' RELAXIN' IN THE MORNIN'
+NOTHIN' SOMETHIN' IN THE EVENIN'
+CLAP YOUR EAR TO WHAT WE SAYIN'
+HUNDRED% GLOBE. DON'T STOP
+煙に巻かれた様なおいしい話も
+今じゃそんなに騒いでいられない
+さめた夜の終着駅で
+ひとりベンチで想うこと
+夜明けがきっと訪れて
+悲しみも運んでしまうよ
+もう今更逃げない
+FEEL LIKE DANCE
+いつの頃か 忘れそな遠い日
+めくるめく想いは
+情けない程 この頃味わえないよ
+男女(ひと)はなぜ時代を
+彩る様な恋と
+それだけじゃきっと
+満たしきれず 愛を囁く
+今宵ダンスと共に
+DAY IN DAY OUT FEEL LIKE DANCE
+ANYTIME ANYWHERE WE LIKE DANCE
+DAY IN DAY OUT FEEL LIKE DANCE
+ANYTIME ANYWHERE WE LIKE DANCE
+泣ける夜の公園で
+ひとりベンチで想うこと
+夜明けがきっと訪れて
+悲しみも運んでしまうさ
+もう今更逃げない
+FEEL LIKE DANCE...
+EVERYBODY DANCE
+TRY TO FIND
+WHERE IS THE ENTRANCE
+DANCE TRANCE FEEL LIKE DANCE
+HAVE A GOOD TIME
+AND TAKE YA CHANCE
+FEEL LIKE DANCE...
+EVERYBODY DANCE
+BREAK IT OUT ALL THIS SILENCE
+ME AND YA HAVE NO DIFFERENCE
+FEEL LIKE DANCE IN THIS ROMANCE
+I LOVE YOU...
+LOVE YA ALL
+THROW AWAY ALL THE TABOO
+COMING TO YA JUST TO RESCUE
+CAUSE LOVE IS GONNA CONTINUE
+I LOVE YOU...
+LOVE YA ALL
+GONNA GIVE YA A BILLET-DOUX
+JUST WANNA MAKE A RENDEZ-VOUS
+NO ADIEU CAUSE LOVE IS TRUE
+FEEL LIKE DANCE
+いつの頃か あきらめかけた夢
+まわりまわるチャンスが
+味気ない程通り過ぎてくよ
+I LOVE YOU とっておきの
+何度も使えない だけど明日を見て
+生きてゆく為にはもう1度
+あなたには届けたいよ
+```

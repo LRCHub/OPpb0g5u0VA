@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Feel Like dance",
+  "base_artist": "globe",
+  "createdAt": "2026-01-01T18:15:34.651870Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel Like dance",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/01_Feel_Like_dance_globe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feel Like dance",
+      "artist": "globe",
+      "has_synced": true,
+      "path": "select/02_Feel_Like_dance_globe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feel Like dance (original mix)",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/03_Feel_Like_dance_(original_mix)_globe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel Like dance - Original Mix",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/04_Feel_Like_dance_-_Original_Mix_globe.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feel Like dance (ORIGINAL MIX)",
+      "artist": "Globe",
+      "has_synced": true,
+      "path": "select/05_Feel_Like_dance_(ORIGINAL_MIX)_Globe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel Like dance",
+      "artist": "globe",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_Like_dance_globe.txt"
+    }
+  ]
+}
